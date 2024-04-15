@@ -1,0 +1,98 @@
+13:28:09.059 [main] INFO  api.tests.UserTests - ***************  Creating User   *****************
+13:28:12.420 [main] INFO  api.tests.UserTests - ***************   User Created   *****************
+13:28:12.440 [main] INFO  api.tests.UserTests - ***************  Reading User   *****************
+13:28:14.190 [main] INFO  api.tests.UserTests - ***************   User Readed   *****************
+13:28:14.194 [main] INFO  api.tests.UserTests - ***************  Updating User   *****************
+13:28:14.194 [main] INFO  api.tests.UserTests - ***************  User Updated  *****************
+13:28:15.830 [main] INFO  api.tests.UserTests - ***************  Deleting User   *****************
+13:28:17.468 [main] INFO  api.tests.UserTests - ***************   User Deleted   *****************
+13:30:13.091 [main] INFO  api.tests.UserTests - ***************  Creating User   *****************
+13:30:16.424 [main] INFO  api.tests.UserTests - ***************   User Created   *****************
+13:30:16.439 [main] INFO  api.tests.UserTests - ***************  Reading User   *****************
+13:30:17.996 [main] INFO  api.tests.UserTests - ***************   User Details Displayed   *****************
+13:30:18.000 [main] INFO  api.tests.UserTests - ***************  Updating User   *****************
+13:30:18.001 [main] INFO  api.tests.UserTests - ***************  User Updated  *****************
+13:30:19.743 [main] INFO  api.tests.UserTests - ***************  Deleting User   *****************
+13:30:21.477 [main] INFO  api.tests.UserTests - ***************   User Deleted   *****************
+19:55:27.101 [main] INFO  api.tests.UserTests2WithPropertiesFile - ***************  Creating User   *****************
+19:55:27.119 [main] INFO  api.tests.UserTests2WithPropertiesFile - ***************  Reading User   *****************
+19:55:27.123 [main] INFO  api.tests.UserTests2WithPropertiesFile - ***************  Updating User   *****************
+19:55:27.123 [main] INFO  api.tests.UserTests2WithPropertiesFile - ***************  User Updated  *****************
+19:55:27.126 [main] INFO  api.tests.UserTests2WithPropertiesFile - ***************  Deleting User   *****************
+20:02:44.598 [main] INFO  api.tests.UserTests2WithPropertiesFile - ***************  Creating User   *****************
+20:02:44.616 [main] INFO  api.tests.UserTests2WithPropertiesFile - ***************  Reading User   *****************
+20:02:44.620 [main] INFO  api.tests.UserTests2WithPropertiesFile - ***************  Updating User   *****************
+20:02:44.620 [main] INFO  api.tests.UserTests2WithPropertiesFile - ***************  User Updated  *****************
+20:02:44.623 [main] INFO  api.tests.UserTests2WithPropertiesFile - ***************  Deleting User   *****************
+20:09:08.990 [main] INFO  api.tests.UserTests2WithPropertiesFile - ***************  Creating User   *****************
+20:09:11.597 [main] INFO  api.tests.UserTests2WithPropertiesFile - ***************   User Created   *****************
+20:09:11.608 [main] INFO  api.tests.UserTests2WithPropertiesFile - ***************  Reading User   *****************
+20:09:13.061 [main] INFO  api.tests.UserTests2WithPropertiesFile - ***************   User Details Displayed   *****************
+20:09:13.063 [main] INFO  api.tests.UserTests2WithPropertiesFile - ***************  Updating User   *****************
+20:09:13.063 [main] INFO  api.tests.UserTests2WithPropertiesFile - ***************  User Updated  *****************
+20:09:14.489 [main] INFO  api.tests.UserTests2WithPropertiesFile - ***************  Deleting User   *****************
+20:09:15.937 [main] INFO  api.tests.UserTests2WithPropertiesFile - ***************   User Deleted   *****************
+20:46:29.492 [main] INFO  api.tests.UserTests2WithPropertiesFile - ***************  Creating User   *****************
+20:46:32.176 [main] INFO  api.tests.UserTests2WithPropertiesFile - ***************   User Created   *****************
+20:46:32.186 [main] INFO  api.tests.UserTests2WithPropertiesFile - ***************  Reading User   *****************
+20:46:33.528 [main] INFO  api.tests.UserTests2WithPropertiesFile - ***************   User Details Displayed   *****************
+20:46:33.532 [main] INFO  api.tests.UserTests2WithPropertiesFile - ***************  Updating User   *****************
+20:46:33.532 [main] INFO  api.tests.UserTests2WithPropertiesFile - ***************  User Updated  *****************
+20:46:34.913 [main] INFO  api.tests.UserTests2WithPropertiesFile - ***************  Deleting User   *****************
+20:46:36.313 [main] INFO  api.tests.UserTests2WithPropertiesFile - ***************   User Deleted   *****************
+20:54:05.707 [main] INFO  api.tests.UserTests2WithPropertiesFile - ***************  Creating User   *****************
+20:54:08.244 [main] INFO  api.tests.UserTests2WithPropertiesFile - ***************   User Created   *****************
+20:54:08.254 [main] INFO  api.tests.UserTests2WithPropertiesFile - ***************  Reading User   *****************
+20:54:09.706 [main] INFO  api.tests.UserTests2WithPropertiesFile - ***************   User Details Displayed   *****************
+20:54:09.709 [main] INFO  api.tests.UserTests2WithPropertiesFile - ***************  Updating User   *****************
+20:54:09.709 [main] INFO  api.tests.UserTests2WithPropertiesFile - ***************  User Updated  *****************
+20:54:11.134 [main] INFO  api.tests.UserTests2WithPropertiesFile - ***************  Deleting User   *****************
+20:54:12.514 [main] INFO  api.tests.UserTests2WithPropertiesFile - ***************   User Deleted   *****************
+21:20:40.741 [main] INFO  api.tests.UserTests2WithPropertiesFile - ***************  Creating User   *****************
+21:20:43.334 [main] INFO  api.tests.UserTests2WithPropertiesFile - ***************   User Created   *****************
+21:20:43.342 [main] INFO  api.tests.UserTests2WithPropertiesFile - ***************  Reading User   *****************
+21:20:44.721 [main] INFO  api.tests.UserTests2WithPropertiesFile - ***************   User Details Displayed   *****************
+21:20:44.723 [main] INFO  api.tests.UserTests2WithPropertiesFile - ***************  Updating User   *****************
+21:20:44.723 [main] INFO  api.tests.UserTests2WithPropertiesFile - ***************  User Updated  *****************
+21:20:46.105 [main] INFO  api.tests.UserTests2WithPropertiesFile - ***************  Deleting User   *****************
+21:20:47.480 [main] INFO  api.tests.UserTests2WithPropertiesFile - ***************   User Deleted   *****************
+21:22:08.037 [main] INFO  api.tests.UserTests2WithPropertiesFile - ***************  Creating User   *****************
+21:22:10.536 [main] INFO  api.tests.UserTests2WithPropertiesFile - ***************   User Created   *****************
+21:22:10.544 [main] INFO  api.tests.UserTests2WithPropertiesFile - ***************  Reading User   *****************
+21:22:11.886 [main] INFO  api.tests.UserTests2WithPropertiesFile - ***************   User Details Displayed   *****************
+21:22:11.888 [main] INFO  api.tests.UserTests2WithPropertiesFile - ***************  Updating User   *****************
+21:22:11.888 [main] INFO  api.tests.UserTests2WithPropertiesFile - ***************  User Updated  *****************
+21:22:13.313 [main] INFO  api.tests.UserTests2WithPropertiesFile - ***************  Deleting User   *****************
+21:22:14.738 [main] INFO  api.tests.UserTests2WithPropertiesFile - ***************   User Deleted   *****************
+11:37:11.893 [main] INFO  api.tests.UserTests2WithPropertiesFile - ***************  Creating User   *****************
+11:37:14.554 [main] INFO  api.tests.UserTests2WithPropertiesFile - ***************   User Created   *****************
+11:37:14.563 [main] INFO  api.tests.UserTests2WithPropertiesFile - ***************  Reading User   *****************
+11:37:16.025 [main] INFO  api.tests.UserTests2WithPropertiesFile - ***************   User Details Displayed   *****************
+11:37:16.027 [main] INFO  api.tests.UserTests2WithPropertiesFile - ***************  Updating User   *****************
+11:37:16.027 [main] INFO  api.tests.UserTests2WithPropertiesFile - ***************  User Updated  *****************
+11:37:17.401 [main] INFO  api.tests.UserTests2WithPropertiesFile - ***************  Deleting User   *****************
+11:37:18.811 [main] INFO  api.tests.UserTests2WithPropertiesFile - ***************   User Deleted   *****************
+11:38:12.509 [main] INFO  api.tests.UserTests2WithPropertiesFile - ***************  Creating User   *****************
+11:38:15.027 [main] INFO  api.tests.UserTests2WithPropertiesFile - ***************   User Created   *****************
+11:38:15.034 [main] INFO  api.tests.UserTests2WithPropertiesFile - ***************  Reading User   *****************
+11:38:16.436 [main] INFO  api.tests.UserTests2WithPropertiesFile - ***************   User Details Displayed   *****************
+11:38:16.437 [main] INFO  api.tests.UserTests2WithPropertiesFile - ***************  Updating User   *****************
+11:38:16.437 [main] INFO  api.tests.UserTests2WithPropertiesFile - ***************  User Updated  *****************
+11:38:17.821 [main] INFO  api.tests.UserTests2WithPropertiesFile - ***************  Deleting User   *****************
+11:38:19.211 [main] INFO  api.tests.UserTests2WithPropertiesFile - ***************   User Deleted   *****************
+12:05:56.692 [main] INFO  api.tests.UserTests2WithPropertiesFile - ***************  Creating User   *****************
+12:05:59.216 [main] INFO  api.tests.UserTests2WithPropertiesFile - ***************   User Created   *****************
+12:05:59.224 [main] INFO  api.tests.UserTests2WithPropertiesFile - ***************  Reading User   *****************
+12:06:00.627 [main] INFO  api.tests.UserTests2WithPropertiesFile - ***************   User Details Displayed   *****************
+12:06:00.629 [main] INFO  api.tests.UserTests2WithPropertiesFile - ***************  Updating User   *****************
+12:06:00.630 [main] INFO  api.tests.UserTests2WithPropertiesFile - ***************  User Updated  *****************
+12:06:01.981 [main] INFO  api.tests.UserTests2WithPropertiesFile - ***************  Deleting User   *****************
+12:06:03.331 [main] INFO  api.tests.UserTests2WithPropertiesFile - ***************   User Deleted   *****************
+16:48:10.358 [main] INFO  api.tests.UserTests2WithPropertiesFile - ***************  Creating User   *****************
+16:48:12.894 [main] INFO  api.tests.UserTests2WithPropertiesFile - ***************   User Created   *****************
+16:48:12.902 [main] INFO  api.tests.UserTests2WithPropertiesFile - ***************  Reading User   *****************
+16:48:14.385 [main] INFO  api.tests.UserTests2WithPropertiesFile - ***************   User Details Displayed   *****************
+16:48:14.387 [main] INFO  api.tests.UserTests2WithPropertiesFile - ***************  Updating User   *****************
+16:48:14.387 [main] INFO  api.tests.UserTests2WithPropertiesFile - ***************  User Updated  *****************
+16:48:15.761 [main] INFO  api.tests.UserTests2WithPropertiesFile - ***************  Deleting User   *****************
+16:48:17.161 [main] INFO  api.tests.UserTests2WithPropertiesFile - ***************   User Deleted   *****************
